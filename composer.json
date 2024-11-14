@@ -1,0 +1,17 @@
+{
+    "name": "artur/teste-ssparisi",
+    "autoload": {
+        "psr-4": {
+            "Artur\\TesteSsparisi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arturoliveira1212",
+            "email": "arturalvesdeoliveira28@gmail.com"
+        }
+    ],
+    "require": {
+        "smalot/pdfparser": "^2.11"
+    }
+}
