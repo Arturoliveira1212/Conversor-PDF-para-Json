@@ -4,10 +4,7 @@ Este projeto é uma aplicação PHP para extrair e processar informações de um
 
 ## Requisitos
 
-- PHP 7.4 ou superior
-- Composer (para gerenciar dependências)
-- Extensão PHP `mbstring` (para manipulação de strings multibyte)
-- Extensão PHP `curl` (para requisições HTTP, se necessário)
+- PHP 7.4 ou superior.
 - Composer: [Instalação](https://getcomposer.org/download/)
 
 ## Execução
